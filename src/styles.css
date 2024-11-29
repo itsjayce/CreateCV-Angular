@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    background-color: #fcfafa;
+    
+}
+
+.name {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding: 1%;
+}
+
+hr {
+    border: 1px solid #000;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+}

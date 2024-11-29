@@ -1,0 +1,14 @@
+
+h1 {
+    text-transform: uppercase;
+    font-size: 24px;
+    padding-bottom: 1%;
+}
+
+.education__info__shs, .education__info__college {
+    padding: 1.5% 2%;
+    font-size: 18px;
+}
+.level {
+    font-weight: bold;
+}

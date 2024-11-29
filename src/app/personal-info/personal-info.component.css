@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+.contact__details {
+    text-align: center;
+    padding-right: 3%;
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+
+.contact__info {
+    padding-right: 4%;
+    padding-bottom: 7px;
+}
+.position__details {
+    padding: 1.5% 2%;
+}
+
+.position__description {
+    font-size: 18px;
+}
+.position {
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
